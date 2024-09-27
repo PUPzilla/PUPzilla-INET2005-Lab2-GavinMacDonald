@@ -1,0 +1,14 @@
+{
+  "name": "hello-mongodb",
+  "version": "1.0.0",
+  "description": "Lab2",
+  "main": "connect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gav MacDonald",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
